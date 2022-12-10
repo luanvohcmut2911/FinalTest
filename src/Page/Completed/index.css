@@ -1,0 +1,19 @@
+.All{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.item{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+button{
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
+button:hover{
+    cursor: pointer;
+}
